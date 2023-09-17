@@ -1,7 +1,7 @@
 ### (っ◔◡◔)っ ♥ Hi there, I'm Maksim ♥ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Russian+student+straight+from+Crimea)](https://git.io/typing-svg)
 
-
+![Jokes Card](https://readme-jokes.vercel.
 <!--
 **Makksiim/Makksiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
