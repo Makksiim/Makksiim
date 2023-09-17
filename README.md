@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Russian+student+straight+from+Crimea)](https://git.io/typing-svg)
  ɪ ʟᴏᴠᴇ ᴊᴏᴋᴇꜱ, ᴇꜱᴘᴇᴄɪᴀʟʟʏ ɪꜰ ᴛʜᴇʏ ᴀʀᴇ ʙᴏᴛʜ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ʙʀɪʟʟɪᴀɴᴛ
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-I study at St. Petersburg Polytechnic University. The profile created here will serve as my computer science test
+  𝕀 𝕤𝕥𝕦𝕕𝕪 𝕒𝕥 𝕊𝕥. ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 ℙ𝕠𝕝𝕪𝕥𝕖𝕔𝕙𝕟𝕚𝕔 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪. 𝕋𝕙𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕔𝕣𝕖𝕒𝕥𝕖𝕕 𝕙𝕖𝕣𝕖 𝕨𝕚𝕝𝕝 𝕤𝕖𝕣𝕧𝕖 𝕒𝕤 𝕞𝕪 𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖 𝕥𝕖𝕤𝕥
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **Makksiim/Makksiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
