@@ -1,6 +1,6 @@
 ### (っ◔◡◔)っ ♥ Hi there, I'm Maksim ♥ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Russian+student+straight+from+Crimea)](https://git.io/typing-svg)
-I love jokes, especially if they are both simple and brilliant
+ ɪ ʟᴏᴠᴇ ᴊᴏᴋᴇꜱ, ᴇꜱᴘᴇᴄɪᴀʟʟʏ ɪꜰ ᴛʜᴇʏ ᴀʀᴇ ʙᴏᴛʜ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ʙʀɪʟʟɪᴀɴᴛ
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 I study at St. Petersburg Polytechnic University. The profile created here will serve as my computer science test
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
