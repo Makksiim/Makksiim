@@ -1,6 +1,6 @@
 ### (っ◔◡◔)っ ♥ Hi there, I'm Maksim ♥ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Russian+student+straight+from+Crimea)](https://git.io/typing-svg)
- ɪ ʟᴏᴠᴇ ᴊᴏᴋᴇꜱ, ᴇꜱᴘᴇᴄɪᴀʟʟʏ ɪꜰ ᴛʜᴇʏ ᴀʀᴇ ʙᴏᴛʜ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ʙʀɪʟʟɪᴀɴᴛ
+ɪ ʟᴏᴠᴇ ᴊᴏᴋᴇꜱ, ᴇꜱᴘᴇᴄɪᴀʟʟʏ ɪꜰ ᴛʜᴇʏ ᴀʀᴇ ʙᴏᴛʜ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ʙʀɪʟʟɪᴀɴᴛ
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
