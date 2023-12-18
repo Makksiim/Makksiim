@@ -13,8 +13,8 @@
 
 .[![Readme Quotes] (https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=6c09b9520pbjmveejznddz33s2opq5otyug36zbycs2j81c5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)].
 
-<code><img height="100"
-src="https://giphy.com/gifs/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO"></code>
+<img align="center" alt="GIF" height="100"
+src="https://giphy.com/gifs/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" />
 **Makksiim/Makksiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
